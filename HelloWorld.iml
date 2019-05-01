@@ -8,6 +8,8 @@
           <file>file://$MODULE_DIR$/src/resources/spring-injection.xml</file>
           <file>file://$MODULE_DIR$/src/main/resources/spring-aware.xml</file>
           <file>file://$MODULE_DIR$/src/main/resources/spring-autowiring.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/spring-beanannotation.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/spring-resource.xml</file>
         </fileset>
         <fileset id="fileset2" name="Spring Beanscope" removed="false">
           <dependency>fileset</dependency>

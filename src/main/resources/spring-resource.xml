@@ -4,7 +4,6 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans
        http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <!--<bean id="moocApplicationContext" class="aware.MoocApplicationContext"/>-->
-    <bean id="moocBeanName" class="aware.MoocBeanName"/>
+    <bean id="moocResource" class="resource.MoocResource"/>
 
 </beans>
